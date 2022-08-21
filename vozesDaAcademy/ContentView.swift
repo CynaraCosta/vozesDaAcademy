@@ -17,7 +17,7 @@ struct Home: View {
     @State var data = [
         Media(nameURL: "vou-me-matar", nameMedia: "BOM DIA", nameAuthor: "Alê"),
         Media(nameURL: "ideaSound", nameMedia: "PILANTRA", nameAuthor: "Arqui"),
-        Media(nameURL: "vou-me-matar", nameMedia: "GALERAAA", nameAuthor: "Chico"),
+        Media(nameURL: "eu-amei-demais", nameMedia: "GALERAAA", nameAuthor: "Chico"),
 
 
     ]

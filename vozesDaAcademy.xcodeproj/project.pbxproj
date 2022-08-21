@@ -10,6 +10,7 @@
 		A46C26CA28B2BFFF0017DFF6 /* playSound.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46C26C928B2BFFF0017DFF6 /* playSound.swift */; };
 		A46C26D028B2C0C20017DFF6 /* ideaSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A46C26CF28B2C0C20017DFF6 /* ideaSound.mp3 */; };
 		A46C26D228B2C2060017DFF6 /* vou-me-matar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A46C26D128B2C2060017DFF6 /* vou-me-matar.mp3 */; };
+		A46C26D428B2C4660017DFF6 /* eu-amei-demais.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A46C26D328B2C4660017DFF6 /* eu-amei-demais.mp3 */; };
 		A4B5421828B13B8600C3D9F5 /* vozesDaAcademyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B5421728B13B8600C3D9F5 /* vozesDaAcademyApp.swift */; };
 		A4B5421A28B13B8600C3D9F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B5421928B13B8600C3D9F5 /* ContentView.swift */; };
 		A4B5421C28B13B8800C3D9F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A4B5421B28B13B8800C3D9F5 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 		A46C26C928B2BFFF0017DFF6 /* playSound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playSound.swift; sourceTree = "<group>"; };
 		A46C26CF28B2C0C20017DFF6 /* ideaSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ideaSound.mp3; sourceTree = "<group>"; };
 		A46C26D128B2C2060017DFF6 /* vou-me-matar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "vou-me-matar.mp3"; sourceTree = "<group>"; };
+		A46C26D328B2C4660017DFF6 /* eu-amei-demais.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "eu-amei-demais.mp3"; sourceTree = "<group>"; };
 		A4B5421428B13B8600C3D9F5 /* vozesDaAcademy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vozesDaAcademy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4B5421728B13B8600C3D9F5 /* vozesDaAcademyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vozesDaAcademyApp.swift; sourceTree = "<group>"; };
 		A4B5421928B13B8600C3D9F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 			isa = PBXGroup;
 			children = (
 				A46C26D128B2C2060017DFF6 /* vou-me-matar.mp3 */,
+				A46C26D328B2C4660017DFF6 /* eu-amei-demais.mp3 */,
 				A46C26CF28B2C0C20017DFF6 /* ideaSound.mp3 */,
 			);
 			path = Resources;
@@ -146,6 +149,7 @@
 				A46C26D228B2C2060017DFF6 /* vou-me-matar.mp3 in Resources */,
 				A4B5421C28B13B8800C3D9F5 /* Assets.xcassets in Resources */,
 				A46C26D028B2C0C20017DFF6 /* ideaSound.mp3 in Resources */,
+				A46C26D428B2C4660017DFF6 /* eu-amei-demais.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
