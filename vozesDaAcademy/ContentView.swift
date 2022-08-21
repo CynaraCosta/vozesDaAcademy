@@ -31,6 +31,7 @@ struct Home: View {
                     Text("Vozes da Academy")
                         .font(.title)
                         .fontWeight(.bold)
+                        .foregroundColor(Color.red)
                 }
             }.padding()
             MainView(data: self.$data, Grid: self.$Grid)
@@ -93,7 +94,7 @@ struct Card: View {
             }) {
                 Text(data.nameMedia).foregroundColor(.white)
                 .frame(width: (UIScreen.main.bounds.width - 45) / 2, height: 260)
-            }.background(Color.blue.opacity(0.3))
+            }.background(Color.yellow.opacity(0.4))
                 .cornerRadius(12)
                 .shadow(radius: 6)
         }
